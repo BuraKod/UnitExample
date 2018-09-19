@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="de.plushnikov.lombok-intellij-plugin:processor-core:0.5" type="repository">
+    <properties maven-id="de.plushnikov.lombok-intellij-plugin:processor-core:0.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/processor-core-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/processor-api-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-api-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-factory-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-9-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-10-0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-11-0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/processor-core-0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/processor-api-0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-api-0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-factory-0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-9-0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-10-0.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/intellij-facade-11-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
